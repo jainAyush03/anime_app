@@ -1,4 +1,6 @@
 This is a simple Android app that leverages the Jikan API to fetch and display popular or top-rated anime series. The app provides a user-friendly interface to explore anime details, including trailers, posters, ratings, and more. It allows users to view a list of anime series on the Home screen and click on any series to get more in-depth information on a separate detail page.
+<img width="321" alt="Screenshot 2025-01-23 at 2 38 12 AM" src="https://github.com/user-attachments/assets/1d74c1ef-af05-4d2d-aae4-d7cc3e882a01" />
+<img width="325" alt="Screenshot 2025-01-23 at 2 39 06 AM" src="https://github.com/user-attachments/assets/a54f961c-e269-451a-a670-0b30f9f1e338" />
 
 Features:
 Anime List Page:
